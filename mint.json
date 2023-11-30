@@ -1,41 +1,28 @@
 {
     "name": "Teal",
-    "logo": {
-      "light": "/logo/light.svg",
-      "dark": "/logo/dark.svg"
-    },
+    "logo": "https://mintlify.s3-us-west-1.amazonaws.com/tealplatforms/logo/dark.svg",
     "favicon": "/favicon.png",
     "colors": {
-      "primary": "#",
-      "light": "#",
-      "dark": "#"
+      "primary": "#5EEAD4",
+      "light": "#5EEAD4",
+      "dark": "#18181B"
     },
     "topbarCtaButton": {
-      "name": "",
-      "url": ""
+      "name": "Developer Portal",
+      "url": "https://developer.teal.dev"
     },
-    "topbarLinks": [
-      {
-        "name": "",
-        "url": ""
-      }
-    ],
-    "anchors": [
-      {
-        "name": "",
-        "icon": "",
-        "url": ""
-      }
-    ],
+    "modeToggle": {
+      "default": "dark",
+      "isHidden": true
+    },
     "navigation": [
       {
-        "group": "",
-        "pages": [""]
+        "group": "Welcome",
+        "pages": ["introduction"]
       }
     ],
     "footerSocials":
       {
-          "twitter": "",
-          "linkedin": ""
+          "linkedin": "https://www.linkedin.com/company/teal-dev/"
       }
   }
