@@ -1,6 +1,6 @@
 {
     "name": "Teal",
-    "logo": "https://mintlify.s3-us-west-1.amazonaws.com/tealplatforms/logo/dark.svg",
+    "logo": "/teal-logo-light-on-dark.svg",
     "favicon": "/favicon.png",
     "colors": {
       "primary": "#5EEAD4",
